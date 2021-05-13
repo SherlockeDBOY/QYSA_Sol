@@ -15,10 +15,10 @@ const AboutUs = () => {
             <SEO title="QYSA Solutions || Know Us" />
             <Header />
             <Breadcrumb 
-                image="images/bg/breadcrumb-bg.jpg"
+                image="images/bg/breadcrumb-bgb.jpg"
                 title="We are QYSA Solutions from Bengaluru"
-                content="Home"
-                contentTwo="Know Us"
+                position="bottom"
+                size="cover"
             />
             <KnowUsContent/>
             <Faq />

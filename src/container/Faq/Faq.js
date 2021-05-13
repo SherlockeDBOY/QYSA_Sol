@@ -35,14 +35,14 @@ const Faq = () => {
 
                     <div className="col mb-6 pl-xl-12" data-aos="fade-up" data-aos-delay="300">
                         <div className="about-image-area faq-image-area">
-                            <div className="about-image right-n50">
+                            <div className="about-image ">
                                 <Tilt scale={scale} transitionSpeed={4000}>
-                                    <img src={process.env.PUBLIC_URL + "/images/faq/faq-2.jpg"} alt="" />
+                                    <img src={process.env.PUBLIC_URL + "/images/faq/faq-2b.png"} alt="" />
                                 </Tilt>
                             </div>
-                            <div className="about-image">
+                            <div className="about-image right-n50">
                                 <Tilt scale={scale} transitionSpeed={4000}>
-                                    <img src={process.env.PUBLIC_URL + "/images/faq/faq-1.jpg"} alt="" />
+                                    <img src={process.env.PUBLIC_URL + "/images/faq/faq-1b.png"} alt="" />
                                 </Tilt>
                             </div>
                             <div className="shape shape-1" id="scene" ref={sceneEl}>
