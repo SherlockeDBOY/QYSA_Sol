@@ -16,8 +16,6 @@ const Service = () => {
             <Breadcrumb 
                 image="images/bg/breadcrumb-bg-three.jpg"
                 title="Our Services"
-                content="Home"
-                contentTwo="Services"
             />
             <ServiceIconBoxTwo />
             <ContactInformationThree />

@@ -71,6 +71,7 @@
       }
       .info-text {
         color: $white;
+        font-size: 14px !important;
         strong {
           color: $white;
         }
@@ -135,7 +136,7 @@
       margin-bottom: 15px;
     }
     .info-text {
-      font-size: 12px;
+      font-size: 14px;
       display: block;
       line-height: 27px;
       strong {

@@ -18,7 +18,7 @@ const Newsletter = () => {
 
     }, [])
     return (
-        <div className="section section-bg-image section-padding-t110-b120 newsletter-section overlay-two" style={{backgroundImage: `url(${process.env.PUBLIC_URL}/images/bg/newsletter.jpg)`}}>
+        <div className="section section-bg-image section-padding-t110-b120 newsletter-section overlay-two" style={{backgroundImage: `url(${process.env.PUBLIC_URL}/images/bg/Get-started-today.jpg)`, backgroundSize: `cover`}}>
             <div className="container">
                 <div className="row align-items-center">
                     <div className="col-lg-12 text-left">
@@ -32,7 +32,7 @@ const Newsletter = () => {
                             
                         </div>
                         <div>
-                        <Link className="btn get-started btn-primary btn-hover-secondary mx-auto mt-xl-8 mt-lg-8 mt-md-6 mt-4 mx-auto text-center" to={process.env.PUBLIC_URL + "/about"}>More Info</Link>
+                        <Link className="btn get-started btn-primary btn-hover-secondary mx-auto mt-xl-8 mt-lg-8 mt-md-6 mt-4 mx-auto text-center" to={process.env.PUBLIC_URL + "/contact"}>Connect</Link>
                         </div>
                     </div>
                 </div>

@@ -2,16 +2,19 @@
     {
         "id": "1",
         "title": "Path To A Better Future",
-        "backgroundImage": "/images/hero-image/hero-2.jpg"
+        "desc":"lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+        "backgroundImage": "/images/hero-image/hero-2a.jpg"
     },
     {
         "id": "2",
         "title": "Path To A Better Future",
+        "desc":"lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
         "backgroundImage": "/images/hero-image/hero-1.jpg"
     },
     {
         "id": "3",
         "title": "Path To A Better Future",
-        "backgroundImage": "/images/hero-image/hero-3.jpg"
+        "desc":"lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+        "backgroundImage": "/images/hero-image/hero-3a.jpg"
     }
 ]

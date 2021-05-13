@@ -3,6 +3,7 @@ import SEO from '../components/SEO';
 import Header from "../partials/header/Header";
 import Breadcrumb from '../container/Breadcrumb/Breadcrumb';
 import ContactInformation from '../container/ContactInformation/ContactInformation';
+import CareerPG from '../container/ContactInformation/CareerPG';
 import GoogleMap from '../container/Map/GoogleMap';
 import ContactFromContainer from '../container/ContactFromContainer/ContactFromContainer';
 import Footer from '../container/Footer/Footer';
@@ -16,11 +17,10 @@ const Contact = () => {
             <Breadcrumb 
                 image="images/bg/breadcrumb-bg-five.jpg"
                 title="We are QYSA Solutions from Bengaluru"
-                content="Home"
-                contentTwo="Connect with Us"
             />
-            <ContactInformation />
+            <CareerPG/>
             <GoogleMap />
+            <ContactInformation />
             <ContactFromContainer />
             <Footer />
             <ScrollToTop />

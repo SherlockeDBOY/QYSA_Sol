@@ -98,17 +98,17 @@
         "list": [
             {
             "id": 1,
-            "text": "Service Enquiry",
+            "text": "Career",
             "url": "/"
             },
             {
             "id": 2,
-            "text": "Business Enquiry",
+            "text": "Partnership",
             "url": "/"
             },
             {
             "id": 3,
-            "text": "FAQs",
+            "text": "General",
             "url": "/"
             }
         ]

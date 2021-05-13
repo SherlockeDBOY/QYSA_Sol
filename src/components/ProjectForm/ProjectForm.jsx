@@ -26,11 +26,24 @@ const ProjectForm = () => {
                     {errors.email && <p>{errors.email.message}</p>}
                 </div>
                 <div className="col-12 mb-6">
+                <select value="Our Services">
+                    <option>All Services</option>
+                    <option>Placement and Training</option>
+                    <option>Import and Export</option>
+                    <option>Ecommerce</option>
+                    <option>Digital Marketing and Website Development</option>
+                    <option>Cybersecurity</option>
+                    <option>Data Management</option>
+                    <option>Blockchain</option>
+                    <option>Event Management / Manpower</option>
+                </select>
+                </div>
+                <div className="col-12 mb-6">
                     <textarea name="message" placeholder="Message" ref={register({ required: 'Message is required' })}></textarea>
                     {errors.message && <p>{errors.message.message}</p>}
                 </div>
                 <div className="col-12 text-center mb-4">
-                    <button className="btn btn-primary btn-hover-secondary">Get a free consultation</button>
+                    <button className="btn btn-primary btn-hover-secondary">Submit</button>
                 </div>
             </div>
         </form>

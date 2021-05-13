@@ -1,23 +1,23 @@
 [
     {
         "id": "1",
-        "icon": "images/svg/linea/linea-basic-target.svg",
+        "icon": "images/svg/linea/Placements&Training.svg",
         "title": "Placement And Training",
-        "desc": "We give corporate training to professionals and mould them to suit your requirements.",
+        "desc": "Our placement training program includes aptitude tests and technical skill training. ",
         "pageLink": "Learn More",
         "link": "service"
     },
     {
         "id": "2",
-        "icon": "images/svg/linea/linea-basic-picture-multiple.svg",
+        "icon": "images/svg/linea/DigitalMarketing.svg",
         "title": "Digital Marketing And Website Development",
-        "desc": "We can promote your product or service on the internet and other various media platforms.",
+        "desc": "We specialise in branding & web development & have marketing experience with Fortune 500.",
         "pageLink": "Learn More",
         "link": "service"
     },
     {
         "id": "3",
-        "icon": "images/svg/linea/linea-basic-picture.svg",
+        "icon": "images/svg/linea/Datamanagement.svg",
         "title": "Data Management",
         "desc": "Your data is an enormous untapped resource. We want to help you optimise and use data that your business collects.",
         "pageLink": "Learn More",
@@ -25,7 +25,7 @@
     },
     {
         "id": "4",
-        "icon": "images/svg/linea/linea-ecommerce-cart-plus.svg",
+        "icon": "images/svg/linea/Ecommerce.svg",
         "title": "Ecommerce",
         "desc": "We want to help you interact with the global digital marketplace. We will help you buy...",
         "pageLink": "Learn More",
@@ -33,7 +33,7 @@
     },
     {
         "id": "5",
-        "icon": "images/svg/linea/linea-basic-gear.svg",
+        "icon": "images/svg/linea/Import&Export.svg",
         "title": "Import and Export",
         "desc": "We handle the import and export of goods and services. We ensure that your product...",
         "pageLink": "Learn More",
@@ -41,7 +41,7 @@
     },
     {
         "id": "6",
-        "icon": "images/svg/linea/linea-basic-display.svg",
+        "icon": "images/svg/linea/cybersecurity.svg",
         "title": "Cyber-Security",
         "desc": "We have Information Technology specialists who are adept at countering external hazards..",
         "pageLink": "Learn More",
@@ -49,7 +49,7 @@
     },
     {
         "id": "7",
-        "icon": "images/svg/linea/linea-basic-gear.svg",
+        "icon": "images/svg/linea/Blockchain.svg",
         "title": "Blockchain",
         "desc": "Blockchain is a secure, immutable & programmable database that makes it very convenient for online transactions. We have professionals who are proficient in using Blockchain.  ",
         "pageLink": "Learn More",
@@ -57,7 +57,7 @@
     },
     {
         "id": "8",
-        "icon": "images/svg/linea/linea-basic-picture.svg",
+        "icon": "images/svg/linea/EventManagement.svg",
         "title": "Event Management/Workforce",
         "desc": "We manage and produce events for our clients who are looking for a creative and memorable experience. Our creatives capture your vision and materialise them into beautiful works of art. ",
         "pageLink": "Learn More",
